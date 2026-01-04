@@ -1,4 +1,4 @@
-# Исходники сайта [docs.gitops.ru](https://docs.gitops.ru)
+# Исходники сайта [docs.dev-sec-ops.ru](https://docs.dev-sec-ops.ru)
 
 <br/>
 
@@ -8,8 +8,8 @@
 
 ```
 $ cd ~
-$ mkdir -p docs.gitops.ru && cd docs.gitops.ru
-$ git clone --depth=1 https://github.com/webmakaka/docs.gitops.ru.git .
+$ mkdir -p docs.dev-sec-ops.ru && cd docs.dev-sec-ops.ru
+$ git clone --depth=1 https://github.com/webmakaka/docs.dev-sec-ops.ru.git .
 $ docker-compose up
 ```
 
@@ -23,10 +23,10 @@ $ docker-compose up
 
 <br/>
 
-### Запустить docs.gitops.ru на своем хосте с использованием docker контейнера:
+### Запустить docs.dev-sec-ops.ru на своем хосте с использованием docker контейнера:
 
 ```
-$ docker run -i -t -p 80:80 --name docs.gitops.ru marley/docs.gitops.ru
+$ docker run -i -t -p 80:80 --name docs.dev-sec-ops.ru marley/docs.dev-sec-ops.ru
 ```
 
 <br/>
@@ -34,15 +34,15 @@ $ docker run -i -t -p 80:80 --name docs.gitops.ru marley/docs.gitops.ru
 ### Как сервис
 
 ```
-$ sudo vi /etc/systemd/system/docs.gitops.ru.service
+$ sudo vi /etc/systemd/system/docs.dev-sec-ops.ru.service
 ```
 
-вставить содержимое файла docs.gitops.ru.service
+вставить содержимое файла docs.dev-sec-ops.ru.service
 
 ```
-$ sudo systemctl enable docs.gitops.ru.service
-$ sudo systemctl start  docs.gitops.ru.service
-$ sudo systemctl status docs.gitops.ru.service
+$ sudo systemctl enable docs.dev-sec-ops.ru.service
+$ sudo systemctl start  docs.dev-sec-ops.ru.service
+$ sudo systemctl status docs.dev-sec-ops.ru.service
 ```
 
 http://localhost:4006
@@ -55,5 +55,5 @@ http://localhost:4006
 
 **Marley**
 
-Any questions in english: <a href="https://docs.gitops.ru/chat/">Telegram Chat</a>  
-Любые вопросы на русском: <a href="https://docs.gitops.ru/chat/">Телеграм чат</a>
+Any questions in english: <a href="https://docs.dev-sec-ops.ru/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://docs.dev-sec-ops.ru/chat/">Телеграм чат</a>
