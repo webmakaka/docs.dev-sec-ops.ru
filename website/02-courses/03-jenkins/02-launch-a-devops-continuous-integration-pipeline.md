@@ -15,7 +15,7 @@ permalink: /tools/containers/kubernetes/utils/ci-cd/jenkins/launch-a-devops-cont
 
 <br/>
 
-### Скачать image заранее
+### Скачать image которые будут использовать заранее
 
 ```
 $ eval $(minikube --profile ${PROFILE} docker-env)
@@ -31,6 +31,10 @@ $ {
     docker pull shiftleft/sast-scan:latest
 }
 ```
+
+<br/>
+
+### [Инсталляция jenkins в minikube](//docs.gitops.ru/tools/containers/kubernetes/utils/ci-cd/jenkins/setup/helm/minikube/)
 
 <br/>
 
