@@ -34,6 +34,57 @@ $ {
 
 <br/>
 
+### Install Essential Plugins
+
+Browse to Manage Jenkins -> Manage Plugins -> Available
+
+http://192.168.49.2:30264/manage/pluginManager/available
+
+- Blue Ocean
+- Configuration as Code Plugin - Groovy Scripting Extension
+
+<br/>
+
+### Создание учетки для работы с GitHub
+
+<br/>
+
+```
+Personal Access Token (PAT)
+
+Создайте PAT в GitHub:
+
+Settings → Developer settings → Personal access tokens → Fine-grained tokens
+
+Или: Settings → Developer settings → Personal access tokens → Tokens (classic)
+
+Дайте права: repo, admin:repo_hook, read:user
+```
+
+<br/>
+
+```
+// Добавьте в Jenkins:
+// Jenkins → Manage Jenkins → Credentials → System → Global credentials → Add Credentials
+http://192.168.49.2:30264/manage/credentials/store/system/domain/_/newCredentials
+```
+
+<br/>
+
+```
+Kind: "Username with password"
+
+Scope: Global (Jenkins, nodes, items, all child items, etc)
+
+Username: ваш GitHub username
+
+Password: ваш PAT
+
+ID: github-token (или любое другое имя)
+```
+
+<br/>
+
 ### Launch a DevOps Continuous Integration Pipeline
 
 fork -> https://github.com/lfs262/dso-demo
