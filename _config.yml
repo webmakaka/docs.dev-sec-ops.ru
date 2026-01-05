@@ -1,9 +1,9 @@
 # Site settings
 title: docs.dev-sec-ops.ru на русском языке
 
-description: Собираем материалы по развертыванию приложений с помощью самых современных инструментова автоматизации
+description: Изучаем лучшие практики DevSecOps
 
-keywords: GitOps, DevOps, SRE, Clouds, Linux, Docker, Kubernetes, Git, FluxCD, ArgoCD
+keywords: DevSecOps, SRE, Security, Linux, Docker, Kubernetes, Clouds, Git, FluxCD, ArgoCD
 
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://docs.dev-sec-ops.ru' # the base hostname & protocol for your site
