@@ -3,13 +3,14 @@ layout: page
 title: Ultimate DevSecOps Bootcamp by School of Devops
 description: Ultimate DevSecOps Bootcamp by School of Devops
 keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops
-permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/
+permalink: /courses/devsecops/ultimate-devsecops-bootcamp/
 ---
 
 # [Gourav Shah] Ultimate DevSecOps Bootcamp by School of Devops [ENG, 2021]
 
 <br/>
 
+**Ссылка на курс:**  
 https://schoolofdevops.com/programs/devsecops-bootcamp/
 
 <br/>
@@ -22,6 +23,20 @@ https://schoolofdevops.com/programs/devsecops-bootcamp/
 
 <br/>
 
-### [Building a DevOps Pipeline](/courses/devsecops/ultimate-devsec-ops-bootcamp/launch-a-devops-continuous-integration-pipeline/)
+### [Building a DevOps Pipeline](/courses/devsecops/ultimate-devsecops-bootcamp/launch-a-devops-continuous-integration-pipeline/)
 
-### [Securing the Supply Chain with SCA](/courses/devsecops/ultimate-devsec-ops-bootcamp/securing-the-supply-chain-with-sca/)
+### [Securing the Supply Chain with SCA](/courses/devsecops/ultimate-devsecops-bootcamp/securing-the-supply-chain-with-sca/)
+
+### [Static Application Security Testing (SAST)](/courses/devsecops/ultimate-devsecops-bootcamp/static-application-security-testing/)
+
+### [Auditing Container Images](/courses/devsecops/ultimate-devsecops-bootcamp/auditing-container-images/)
+
+Secure Deployment and Dynamic Application Security Testing DAST
+
+System Security Auditing with IaaC
+
+Securing Kubernetes Deployments
+
+Secrets Management with Vault
+
+Runtime Security Monitoring and Remediation

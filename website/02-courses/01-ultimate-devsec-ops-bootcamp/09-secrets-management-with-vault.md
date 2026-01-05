@@ -3,7 +3,7 @@ layout: page
 title: Инсталляция Jenkins в ubuntu 22.04
 description: Инсталляция Jenkins в ubuntu 22.04
 keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
-permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/secrets-management-with-vault/
+permalink: /courses/devsecops/ultimate-devsecops-bootcamp/secrets-management-with-vault/
 ---
 
 # Secrets Management with Vault

@@ -3,7 +3,7 @@ layout: page
 title: Ultimate DevSecOps Bootcamp by School of Devops - Building a DevOps Pipeline
 description: Ultimate DevSecOps Bootcamp by School of Devops - Building a DevOps Pipeline
 keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Building a DevOps Pipeline
-permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/building-a-devops-pipeline/
+permalink: /courses/devsecops/ultimate-devsecops-bootcamp/building-a-devops-pipeline/
 ---
 
 # Ultimate DevSecOps Bootcamp by School of Devops: Building a DevOps Pipeline
@@ -34,7 +34,7 @@ $ {
 
 <br/>
 
-### [Инсталляция jenkins в minikube](//docs.gitops.ru/courses/devsecops/ultimate-devsec-ops-bootcamp/setup/helm/minikube/)
+### [Инсталляция jenkins в minikube](//docs.gitops.ru/courses/devsecops/ultimate-devsecops-bootcamp/setup/helm/minikube/)
 
 <br/>
 

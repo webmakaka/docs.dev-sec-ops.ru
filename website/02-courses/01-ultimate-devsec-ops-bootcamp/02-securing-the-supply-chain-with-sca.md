@@ -3,7 +3,7 @@ layout: page
 title: Ultimate DevSecOps Bootcamp by School of Devops - Securing the Supply Chain with SCA
 description: Ultimate DevSecOps Bootcamp by School of Devops - Securing the Supply Chain with SCA
 keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Securing the Supply Chain with SCA
-permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/securing-the-supply-chain-with-sca/
+permalink: /courses/devsecops/ultimate-devsecops-bootcamp/securing-the-supply-chain-with-sca/
 ---
 
 # Ultimate DevSecOps Bootcamp by School of Devops: Securing the Supply Chain with SCA

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
-permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/auditing-container-images/
+title: Ultimate DevSecOps Bootcamp by School of Devops - Auditing Container Images
+description: Ultimate DevSecOps Bootcamp by School of Devops - Auditing Container Images
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Auditing Container Images
+permalink: /courses/devsecops/ultimate-devsecops-bootcamp/auditing-container-images/
 ---
 
-# Auditing Container Images
+# Ultimate DevSecOps Bootcamp by School of Devops: Auditing Container Images
 
 <br/>
 

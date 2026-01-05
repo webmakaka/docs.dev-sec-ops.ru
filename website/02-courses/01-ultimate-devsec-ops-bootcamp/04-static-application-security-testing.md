@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
-permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/static-application-security-testing/
+title: Ultimate DevSecOps Bootcamp by School of Devops - Static Application Security Testing (SAST)
+description: Ultimate DevSecOps Bootcamp by School of Devops - Static Application Security Testing (SAST)
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Static Application Security Testing (SAST)
+permalink: /courses/devsecops/ultimate-devsecops-bootcamp/static-application-security-testing/
 ---
 
-# Static Application Security Testing (SAST)
+# Ultimate DevSecOps Bootcamp by School of Devops: Static Application Security Testing (SAST)
 
 <br/>
 
