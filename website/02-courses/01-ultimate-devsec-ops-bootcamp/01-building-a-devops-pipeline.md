@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
-permalink: /tools/containers/kubernetes/utils/ci-cd/jenkins/launch-a-devops-continuous-integration-pipeline/
+title: Ultimate DevSecOps Bootcamp by School of Devops - Building a DevOps Pipeline
+description: Ultimate DevSecOps Bootcamp by School of Devops - Building a DevOps Pipeline
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Building a DevOps Pipeline
+permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/building-a-devops-pipeline/
 ---
 
-# Launch a DevOps Continuous Integration Pipeline
+# Ultimate DevSecOps Bootcamp by School of Devops: Building a DevOps Pipeline
 
 <br/>
 
@@ -34,7 +34,7 @@ $ {
 
 <br/>
 
-### [Инсталляция jenkins в minikube](//docs.gitops.ru/tools/containers/kubernetes/utils/ci-cd/jenkins/setup/helm/minikube/)
+### [Инсталляция jenkins в minikube](//docs.gitops.ru/courses/devsecops/ultimate-devsec-ops-bootcamp/setup/helm/minikube/)
 
 <br/>
 

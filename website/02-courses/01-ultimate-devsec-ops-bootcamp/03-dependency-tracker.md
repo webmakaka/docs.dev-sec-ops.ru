@@ -3,7 +3,7 @@ layout: page
 title: Инсталляция Jenkins в ubuntu 22.04
 description: Инсталляция Jenkins в ubuntu 22.04
 keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
-permalink: /tools/containers/kubernetes/utils/ci-cd/jenkins/dependency-tracker/
+permalink: /courses/devsecops/ultimate-devsec-ops-bootcamp/dependency-tracker/
 ---
 
 # [FAIL!] SBOM with CycloneDX and Dependency Tracker
