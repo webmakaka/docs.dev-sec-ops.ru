@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Dev->Sec->Ops
+title: Dev->Sec<-Ops
 permalink: /
 ---
 
-# Dev->Sec->Ops
+# Dev->Sec<-Ops
 
 <br/>
 
