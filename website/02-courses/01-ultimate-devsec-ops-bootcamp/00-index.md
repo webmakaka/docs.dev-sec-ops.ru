@@ -23,7 +23,7 @@ https://schoolofdevops.com/programs/devsecops-bootcamp/
 
 <br/>
 
-### [Building a DevOps Pipeline](/courses/devsecops/ultimate-devsecops-bootcamp/launch-a-devops-continuous-integration-pipeline/)
+### [Building a DevOps Pipeline](/courses/devsecops/ultimate-devsecops-bootcamp/building-a-devops-pipeline/)
 
 ### [Securing the Supply Chain with SCA](/courses/devsecops/ultimate-devsecops-bootcamp/securing-the-supply-chain-with-sca/)
 
