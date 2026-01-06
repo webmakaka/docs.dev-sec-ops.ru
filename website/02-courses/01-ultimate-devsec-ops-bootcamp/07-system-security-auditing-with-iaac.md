@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
+title: Ultimate DevSecOps Bootcamp by School of Devops - System Security Auditing with IaaC
+description: Ultimate DevSecOps Bootcamp by School of Devops - System Security Auditing with IaaC
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, System Security Auditing with IaaC
 permalink: /courses/devsecops/ultimate-devsecops-bootcamp/system-security-auditing-with-iaac/
 ---
 
-# System Security Auditing with IaaC
+# Ultimate DevSecOps Bootcamp by School of Devops: System Security Auditing with IaaC
 
 <br/>
 

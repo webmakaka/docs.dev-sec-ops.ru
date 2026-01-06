@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
+title: Ultimate DevSecOps Bootcamp by School of Devops - Runtime Security Monitoring and Remediation
+description: Ultimate DevSecOps Bootcamp by School of Devops - Runtime Security Monitoring and Remediation
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Runtime Security Monitoring and Remediation
 permalink: /courses/devsecops/ultimate-devsecops-bootcamp/runtime-security-monitoring-and-remediation/
 ---
 
-# Runtime Security Monitoring and Remediation
+# Ultimate DevSecOps Bootcamp by School of Devops: Runtime Security Monitoring and Remediation
 
 <br/>
 

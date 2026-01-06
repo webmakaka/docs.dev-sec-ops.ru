@@ -31,12 +31,12 @@ https://schoolofdevops.com/programs/devsecops-bootcamp/
 
 ### [Auditing Container Images](/courses/devsecops/ultimate-devsecops-bootcamp/auditing-container-images/)
 
-Secure Deployment and Dynamic Application Security Testing DAST
+### [Secure Deployment and Dynamic Application Security Testing DAST](/courses/devsecops/ultimate-devsecops-bootcamp/secure-deployment-and-dynamic-application-security-testing/)
 
-System Security Auditing with IaaC
+### [System Security Auditing with IaaC](/courses/devsecops/ultimate-devsecops-bootcamp/system-security-auditing-with-iaac/)
 
-Securing Kubernetes Deployments
+### [Securing Kubernetes Deployments](/courses/devsecops/ultimate-devsecops-bootcamp/securing-kubernetes-deployments/)
 
-Secrets Management with Vault
+### [Secrets Management with Vault](/courses/devsecops/ultimate-devsecops-bootcamp/secrets-management-with-vault/)
 
-Runtime Security Monitoring and Remediation
+### [Runtime Security Monitoring and Remediation](/courses/devsecops/ultimate-devsecops-bootcamp/runtime-security-monitoring-and-remediation/)

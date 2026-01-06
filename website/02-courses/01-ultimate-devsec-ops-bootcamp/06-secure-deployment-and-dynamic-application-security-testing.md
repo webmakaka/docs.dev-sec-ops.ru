@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
+title: Ultimate DevSecOps Bootcamp by School of Devops - Secure Deployment and Dynamic Application Security Testing DAST
+description: Ultimate DevSecOps Bootcamp by School of Devops - Secure Deployment and Dynamic Application Security Testing DAST
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Secure Deployment and Dynamic Application Security Testing DAST
 permalink: /courses/devsecops/ultimate-devsecops-bootcamp/secure-deployment-and-dynamic-application-security-testing/
 ---
 
-# Secure Deployment and Dynamic Application Security Testing DAST
+# Ultimate DevSecOps Bootcamp by School of Devops: Secure Deployment and Dynamic Application Security Testing DAST
 
 <br/>
 

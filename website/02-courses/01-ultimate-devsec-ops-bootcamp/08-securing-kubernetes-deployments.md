@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
+title: Ultimate DevSecOps Bootcamp by School of Devops - Securing Kubernetes Deployments
+description: Ultimate DevSecOps Bootcamp by School of Devops - Securing Kubernetes Deployments
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Securing Kubernetes Deployments
 permalink: /courses/devsecops/ultimate-devsecops-bootcamp/securing-kubernetes-deployments/
 ---
 
-# Securing Kubernetes Deployments
+# Ultimate DevSecOps Bootcamp by School of Devops: Securing Kubernetes Deployments
 
 <br/>
 
