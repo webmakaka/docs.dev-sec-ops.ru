@@ -27,6 +27,8 @@ https://schoolofdevops.com/programs/devsecops-bootcamp/
 
 ### [Securing the Supply Chain with SCA](/courses/devsecops/ultimate-devsecops-bootcamp/securing-the-supply-chain-with-sca/)
 
+### [Dependency Tracker](/courses/devsecops/ultimate-devsecops-bootcamp/dependency-tracker/)
+
 ### [Static Application Security Testing (SAST)](/courses/devsecops/ultimate-devsecops-bootcamp/static-application-security-testing/)
 
 ### [Auditing Container Images](/courses/devsecops/ultimate-devsecops-bootcamp/auditing-container-images/)

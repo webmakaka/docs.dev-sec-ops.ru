@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инсталляция Jenkins в ubuntu 22.04
-description: Инсталляция Jenkins в ubuntu 22.04
-keywords: tools, containers, kubernetes, ci-cd, Jenkins, инсталляция
+title: Ultimate DevSecOps Bootcamp by School of Devops - Dependency Tracker
+description: Ultimate DevSecOps Bootcamp by School of Devops - Dependency Tracker
+keywords: courses, Ultimate DevSecOps Bootcamp by School of Devops, Dependency Tracker
 permalink: /courses/devsecops/ultimate-devsecops-bootcamp/dependency-tracker/
 ---
 
-# [FAIL!] SBOM with CycloneDX and Dependency Tracker
+# Ultimate DevSecOps Bootcamp by School of Devops: Dependency Tracker
 
 <br/>
 
