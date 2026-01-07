@@ -19,7 +19,7 @@ permalink: /courses/devsecops/ultimate-devsecops-bootcamp/secure-deployment-and-
 
 <br/>
 
-### [Устанавливаю ArgoCD](/tools/containers/kubernetes/utils/ci-cd/argo/argo-cd/setup/minikube/minikube/helm/)
+### [Устанавливаю ArgoCD](//docs.gitops.ru/tools/containers/kubernetes/utils/ci-cd/argo/argo-cd/setup/minikube/minikube/helm/)
 
 <br/>
 

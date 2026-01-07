@@ -15,7 +15,7 @@ permalink: /courses/devsecops/ultimate-devsecops-bootcamp/securing-kubernetes-de
 
 <br/>
 
-### [Устанавливаю Single Node Kubernetes Environment](/docs.k8s.ru/tools/containers/kubernetes/setup/single-node-kubernetes/)
+### [Устанавливаю Single Node Kubernetes Environment](//docs.k8s.ru/tools/containers/kubernetes/setup/single-node-kubernetes/)
 
 <br/>
 

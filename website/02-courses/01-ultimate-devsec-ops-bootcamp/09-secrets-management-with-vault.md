@@ -15,7 +15,7 @@ permalink: /courses/devsecops/ultimate-devsecops-bootcamp/secrets-management-wit
 
 <br/>
 
-### [Устанавливаю vault](/tools/containers/kubernetes/utils/security/vault/setup/)
+### [Устанавливаю vault](//docs.gitops.ru/tools/containers/kubernetes/utils/security/vault/setup/)
 
 <br/>
 
