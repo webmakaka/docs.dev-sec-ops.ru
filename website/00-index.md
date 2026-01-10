@@ -36,3 +36,11 @@ DAST - Dynamic application security testing - анализ запущенног�
 
 **Готовые шаблоны:**  
 https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Security?ref_type=heads
+
+<br/>
+
+<br/>
+
+# [Techworld with nana] DevSecOps Bootcamp [2024, ENG]
+
+Хотелось бы покопать курс. Если кто еще будет. Можно было бы обсудить если что-то не заработает.
