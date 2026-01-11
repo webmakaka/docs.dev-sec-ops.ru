@@ -28,9 +28,11 @@ permalink: /
 
 <br/>
 
-SAST - Static application security testing - анализ исходников для идентификации угроз
+SAST - Static application security testing - анализ исходников на угрозы безопасности
 
 DAST - Dynamic application security testing - анализ запущенного приложения
+
+SCA - Software Composition Analysis
 
 <br/>
 
@@ -39,8 +41,24 @@ https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Secur
 
 <br/>
 
-<br/>
-
 # [Techworld with nana] DevSecOps Bootcamp [2024, ENG]
 
-Хотелось бы покопать курс. Если кто еще будет. Можно было бы обсудить если что-то не заработает.
+Хотелось бы покопать курс. Если кто еще будет. Можно было бы обсудить если что-то не заработает. Улучшить в том числе с помощью AI. Обалков у меня нет. Поэтому планирую запускать примеры на старом компе в minikube.
+
+<br/>
+
+- Application Security
+- Infrastructure and Cloud Security
+- Kubernetes Security
+
+<br/>
+
+### Wazuh
+
+Надо будет посмотреть что это такое.
+
+https://www.youtube.com/watch?v=64VrdJuU_Q0
+
+<br/>
+
+А потом, м.б. нужно будет покопать Penetration Testing.
