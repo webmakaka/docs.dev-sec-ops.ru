@@ -15,6 +15,14 @@ permalink: /courses/devsecops/ultimate-devsecops-bootcamp/building-a-devops-pipe
 
 <br/>
 
+### [Инсталляция minikube](//docs.k8s.ru/tools/containers/kubernetes/minikube/setup/)
+
+<br/>
+
+### [Запуск и останов minikube в ubuntu 22.04](//docs.k8s.ru//tools/containers/kubernetes/minikube/run/)
+
+<br/>
+
 ### Скачать image которые будут использовать заранее
 
 ```

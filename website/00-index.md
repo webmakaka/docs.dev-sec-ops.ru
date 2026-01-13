@@ -37,11 +37,11 @@ https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Secur
 
 <br/>
 
-# [[Course][Gourav Shah] Ultimate DevSecOps Bootcamp by School of Devops [ENG, 2021]](/courses/devsecops/ultimate-devsecops-bootcamp/)
+# ❌ [[Techworld with Nana] DevSecOps Bootcamp [2024, ENG]](/courses/devsecops/nana-devsecops-bootcamp/)
 
 <br/>
 
-# [[Techworld with Nana] DevSecOps Bootcamp [2024, ENG]](/courses/devsecops/nana-devsecops-bootcamp/)
+# ✅ [[Course][Gourav Shah] Ultimate DevSecOps Bootcamp by School of Devops [ENG, 2021]](/courses/devsecops/ultimate-devsecops-bootcamp/)
 
 <br/>
 
