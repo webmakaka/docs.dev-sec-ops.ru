@@ -20,10 +20,6 @@ permalink: /
 
 <br/>
 
-# [[Course][Gourav Shah] Ultimate DevSecOps Bootcamp by School of Devops [ENG, 2021]](/courses/devsecops/ultimate-devsecops-bootcamp/)
-
-<br/>
-
 Есть книга с теорией, но без практики. [Vandana Verma Sehgal] Implementing DevSecOps Practices [ENG, 2023]. В ней можно посмотреть, что вообще может быть использовано по теме DevSecOps.
 
 <br/>
@@ -41,15 +37,11 @@ https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Secur
 
 <br/>
 
-# [Techworld with nana] DevSecOps Bootcamp [2024, ENG]
-
-Хотелось бы покопать курс. Если кто еще будет. Можно было бы обсудить если что-то не заработает. Улучшить в том числе с помощью AI. Обалков у меня нет. Поэтому планирую запускать примеры на старом компе в minikube.
+# [[Course][Gourav Shah] Ultimate DevSecOps Bootcamp by School of Devops [ENG, 2021]](/courses/devsecops/ultimate-devsecops-bootcamp/)
 
 <br/>
 
-- Application Security
-- Infrastructure and Cloud Security
-- Kubernetes Security
+# [[Techworld with Nana] DevSecOps Bootcamp [2024, ENG]](/courses/devsecops/nana-devsecops-bootcamp/)
 
 <br/>
 
