@@ -19,9 +19,13 @@ https://schoolofdevops.com/programs/devsecops-bootcamp/
 
 <br/>
 
-Исправления и улучшения принимаются.
+**Исправления и улучшения принимаются!**
 
 <br/>
+
+## Содержание:
+
+### [Подготовка окружения](/courses/devsecops/ultimate-devsecops-bootcamp/environment/)
 
 ### [Building a DevOps Pipeline](/courses/devsecops/ultimate-devsecops-bootcamp/building-a-devops-pipeline/)
 

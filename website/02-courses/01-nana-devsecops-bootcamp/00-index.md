@@ -25,6 +25,10 @@ https://owasp.org/Top10/2025/
 
 <br/>
 
+### [Инсталляция локальной версии gitlab в minikube](//docs.gitops.ru/tools/containers/kubernetes/utils/ci-cd/gitlab/setup/helm/minikube/)
+
+<br/>
+
 ## Содержание:
 
 **Part1**
