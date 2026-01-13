@@ -29,10 +29,10 @@ https://owasp.org/Top10/2025/
 
 **Part1**
 
-### 00 - Getting Started with the DevSecOps Bootcamp
+### ✅ 00 - Getting Started with the DevSecOps Bootcamp
 
-### 01 - Security Essentials
+### ✅ 01 - Security Essentials
 
-### 02 - Introduction to DevSecOps
+### ✅ 02 - Introduction to DevSecOps
 
-### 03 - Application Vulnerability Scanning
+### ❌ [03 - Application Vulnerability Scanning](/courses/devsecops/nana-devsecops-bootcamp/application-vulnerability-scanning/)
