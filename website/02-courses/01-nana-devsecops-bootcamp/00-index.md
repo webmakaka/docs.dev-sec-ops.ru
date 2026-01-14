@@ -25,6 +25,16 @@ https://owasp.org/Top10/2025/
 
 <br/>
 
+**Исходники приложения:**
+https://github.com/juice-shop/juice-shop
+
+<br/>
+
+**Исходники автора:**
+https://gitlab.com/twn-devsecops-bootcamp/latest/juice-shop
+
+<br/>
+
 ### [Инсталляция локальной версии gitlab в minikube](//docs.gitops.ru/tools/containers/kubernetes/utils/ci-cd/gitlab/setup/helm/minikube/)
 
 <br/>
@@ -39,4 +49,6 @@ https://owasp.org/Top10/2025/
 
 ### ✅ 02 - Introduction to DevSecOps
 
-### ❌ [03 - Application Vulnerability Scanning](/courses/devsecops/nana-devsecops-bootcamp/application-vulnerability-scanning/)
+### ✅ [03 - Application Vulnerability Scanning (gitleaks, njsscan (SAST), semgrep (SAST))](/courses/devsecops/nana-devsecops-bootcamp/application-vulnerability-scanning/)
+
+### ❌ [04 - Vulnerability Management and Remediation](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-management-and-remediation/)
