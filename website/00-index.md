@@ -37,7 +37,7 @@ https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Secur
 
 <br/>
 
-# ❌ [[Techworld with Nana] DevSecOps Bootcamp [2024, ENG]](/courses/devsecops/nana-devsecops-bootcamp/)
+# ❌ [[Course][Techworld with Nana] DevSecOps Bootcamp [2024, ENG]](/courses/devsecops/nana-devsecops-bootcamp/)
 
 <br/>
 
