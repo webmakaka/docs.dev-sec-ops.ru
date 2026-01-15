@@ -10,6 +10,13 @@ permalink: /courses/devsecops/nana-devsecops-bootcamp/
 
 <br/>
 
+```
+Проект: node.js
+CI-CD: gitlab
+```
+
+<br/>
+
 Хотелось бы покопать курс. Если кто еще будет. Можно было бы обсудить если что-то не заработает. Улучшить в том числе с помощью AI. Обалков у меня нет. Поэтому планирую запускать примеры на старом компе в minikube.
 
 <br/>
@@ -22,6 +29,15 @@ permalink: /courses/devsecops/nana-devsecops-bootcamp/
 
 **OWASP (Open Web Application Security Project):**  
 https://owasp.org/Top10/2025/
+
+<br/>
+
+**CWE (Common Weakness Enumeration):**  
+https://cwe.mitre.org/
+
+<br/>
+
+**CVE (Common Vulnerabilities and Exposures):**
 
 <br/>
 
@@ -49,14 +65,32 @@ https://gitlab.com/twn-devsecops-bootcamp/latest/juice-shop
 
 ## Содержание:
 
-**Part1**
+**Part1 - Application Security**
 
-### ✅ 00 - Getting Started with the DevSecOps Bootcamp
+### ✅ 00 - Getting Started with the DevSecOps Bootcamp (Теория)
 
-### ✅ 01 - Security Essentials
+### ✅ 01 - Security Essentials (Теория)
 
-### ✅ 02 - Introduction to DevSecOps
+### ✅ 02 - Introduction to DevSecOps (Теория)
 
 ### ✅ [03 - Application Vulnerability Scanning (gitleaks, njsscan (SAST), semgrep (SAST))](/courses/devsecops/nana-devsecops-bootcamp/application-vulnerability-scanning/)
 
-### ❌ [04 - Vulnerability Management and Remediation](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-management-and-remediation/)
+### ✅ ❌ [04 - Vulnerability Management and Remediation (defectdojo)](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-management-and-remediation/)
+
+### ✅ [05 - Vulnerability Scanning for Application Dependencies (Retire.js (SCA))](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-scanning-for-application-dependencies/)
+
+<br/>
+
+**Part2 - Infrastructure and Cloud Security**
+
+### ❌ 06 - Build a CD Pipeline
+
+### ❌ 07 - Image Scanning - Build Secure Docker Images
+
+### ❌ 08 - AWS Cloud Security & Access Management
+
+### ❌ 09 - Secure Continuous Deployment & DAST
+
+### ❌ 10 - IaC and GitOps for DevSecOps
+
+### ❌ 11 - Logging & Monitoring for Security
