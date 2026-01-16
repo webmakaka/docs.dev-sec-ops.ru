@@ -65,32 +65,32 @@ https://gitlab.com/twn-devsecops-bootcamp/latest/juice-shop
 
 ## Содержание:
 
-**Part1 - Application Security**
+**Part1**
 
-### ✅ 00 - Getting Started with the DevSecOps Bootcamp (Теория)
+### 👀 00 - Getting Started with the DevSecOps Bootcamp (Теория)
 
-### ✅ 01 - Security Essentials (Теория)
+### 👀 01 - Security Essentials (Теория)
 
-### ✅ 02 - Introduction to DevSecOps (Теория)
+### 👀 02 - Introduction to DevSecOps (Теория)
 
-### ✅ [03 - Application Vulnerability Scanning (gitleaks, njsscan (SAST), semgrep (SAST))](/courses/devsecops/nana-devsecops-bootcamp/application-vulnerability-scanning/)
+### 🛠️ ✅ [03 - Application Vulnerability Scanning (gitleaks, njsscan (SAST), semgrep (SAST))](/courses/devsecops/nana-devsecops-bootcamp/application-vulnerability-scanning/)
 
-### ✅ ❌ [04 - Vulnerability Management and Remediation (defectdojo)](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-management-and-remediation/)
+### 🛠️ ✅ ❌ [04 - Vulnerability Management and Remediation (defectdojo)](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-management-and-remediation/)
 
-### ✅ [05 - Vulnerability Scanning for Application Dependencies (Retire.js (SCA))](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-scanning-for-application-dependencies/)
+### 🛠️ ✅ [05 - Vulnerability Scanning for Application Dependencies (Retire.js (SCA))](/courses/devsecops/nana-devsecops-bootcamp/vulnerability-scanning-for-application-dependencies/)
+
+### 🌩️ ⏭️ 06 - Build a CD Pipeline (Используем AWS registry, настраиваем Self-Managed GitLab Runner, деплоим приложение на сервер AWS)
+
+### 🛠️ 🐳 ✅ [07 - Image Scanning - Build Secure Docker Images (Trivy)](/courses/devsecops/nana-devsecops-bootcamp/image-scanning-build-secure-docker-images/)
+
+### 🌩️ ⏭️ 08 - AWS Cloud Security & Access Management
+
+### 🌩️ ▶️⏸️ 09 - Secure Continuous Deployment & DAST (Нужно вернуться и посмотреть последние темы!)
+
+### 🌩️ ⏭️ 10 - IaC and GitOps for DevSecOps
+
+### 🌩️ ⏭️ 11 - Logging & Monitoring for Security
 
 <br/>
 
-**Part2 - Infrastructure and Cloud Security**
-
-### ❌ 06 - Build a CD Pipeline
-
-### ❌ 07 - Image Scanning - Build Secure Docker Images
-
-### ❌ 08 - AWS Cloud Security & Access Management
-
-### ❌ 09 - Secure Continuous Deployment & DAST
-
-### ❌ 10 - IaC and GitOps for DevSecOps
-
-### ❌ 11 - Logging & Monitoring for Security
+**Part2**
