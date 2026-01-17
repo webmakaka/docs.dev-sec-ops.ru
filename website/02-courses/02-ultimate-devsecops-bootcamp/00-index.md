@@ -27,22 +27,22 @@ https://schoolofdevops.com/programs/devsecops-bootcamp/
 
 ### [Подготовка окружения](/courses/devsecops/ultimate-devsecops-bootcamp/environment/)
 
-### [Building a DevOps Pipeline](/courses/devsecops/ultimate-devsecops-bootcamp/building-a-devops-pipeline/)
+### 🛠️ ✅ [Building a DevOps Pipeline](/courses/devsecops/ultimate-devsecops-bootcamp/building-a-devops-pipeline/)
 
-### [Securing the Supply Chain with SCA](/courses/devsecops/ultimate-devsecops-bootcamp/securing-the-supply-chain-with-sca/)
+### 🛠️ ✅ [Securing the Supply Chain with SCA](/courses/devsecops/ultimate-devsecops-bootcamp/securing-the-supply-chain-with-sca/)
 
-### [Dependency Tracker](/courses/devsecops/ultimate-devsecops-bootcamp/dependency-tracker/)
+### 🛠️ ✅ [Dependency Tracker](/courses/devsecops/ultimate-devsecops-bootcamp/dependency-tracker/)
 
-### [Static Application Security Testing (SAST)](/courses/devsecops/ultimate-devsecops-bootcamp/static-application-security-testing/)
+### 🛠️ ✅ [Static Application Security Testing (SAST)](/courses/devsecops/ultimate-devsecops-bootcamp/static-application-security-testing/)
 
-### [Auditing Container Images](/courses/devsecops/ultimate-devsecops-bootcamp/auditing-container-images/)
+### 🛠️ ✅ [Auditing Container Images](/courses/devsecops/ultimate-devsecops-bootcamp/auditing-container-images/)
 
-### [Secure Deployment and Dynamic Application Security Testing DAST](/courses/devsecops/ultimate-devsecops-bootcamp/secure-deployment-and-dynamic-application-security-testing/)
+### 🛠️ ✅ [Secure Deployment and Dynamic Application Security Testing DAST](/courses/devsecops/ultimate-devsecops-bootcamp/secure-deployment-and-dynamic-application-security-testing/)
 
-### [System Security Auditing with IaaC](/courses/devsecops/ultimate-devsecops-bootcamp/system-security-auditing-with-iaac/)
+### 🛠️ ✅ [System Security Auditing with IaaC](/courses/devsecops/ultimate-devsecops-bootcamp/system-security-auditing-with-iaac/)
 
-### [Securing Kubernetes Deployments](/courses/devsecops/ultimate-devsecops-bootcamp/securing-kubernetes-deployments/)
+### 🛠️ ✅ [Securing Kubernetes Deployments](/courses/devsecops/ultimate-devsecops-bootcamp/securing-kubernetes-deployments/)
 
-### [Secrets Management with Vault](/courses/devsecops/ultimate-devsecops-bootcamp/secrets-management-with-vault/)
+### 🛠️ ✅ [Secrets Management with Vault](/courses/devsecops/ultimate-devsecops-bootcamp/secrets-management-with-vault/)
 
-### [Runtime Security Monitoring and Remediation](/courses/devsecops/ultimate-devsecops-bootcamp/runtime-security-monitoring-and-remediation/)
+### 🛠️ ✅ [Runtime Security Monitoring and Remediation](/courses/devsecops/ultimate-devsecops-bootcamp/runtime-security-monitoring-and-remediation/)

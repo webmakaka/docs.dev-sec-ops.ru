@@ -10,6 +10,11 @@ permalink: /courses/devsecops/nana-devsecops-bootcamp/
 
 <br/>
 
+**Страница курса:**  
+https://www.techworld-with-nana.com/devsecops-bootcamp
+
+<br/>
+
 ```
 Проект: node.js
 CI-CD: gitlab
@@ -41,12 +46,12 @@ https://cwe.mitre.org/
 
 <br/>
 
-**Исходники приложения:**
+**Исходники приложения:**  
 https://github.com/juice-shop/juice-shop
 
 <br/>
 
-**Исходники автора:**
+**Исходники автора:**  
 https://gitlab.com/twn-devsecops-bootcamp/latest/juice-shop
 
 <br/>
@@ -64,6 +69,8 @@ https://gitlab.com/twn-devsecops-bootcamp/latest/juice-shop
 <br/>
 
 ## Содержание:
+
+<br/>
 
 **Part1**
 
@@ -94,3 +101,5 @@ https://gitlab.com/twn-devsecops-bootcamp/latest/juice-shop
 <br/>
 
 **Part2**
+
+Похоже, что далее все под AWS, доступа к которому у меня нет.
